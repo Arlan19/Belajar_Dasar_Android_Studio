@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fragment 02"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textColor="@color/black"
+        android:layout_marginTop="40dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="FRAGMENT 01"
+        android:textColorHint="@color/white"
+        android:backgroundTint="@color/black"
+        android:layout_gravity="center"
+        android:textSize="18sp"
+        android:layout_marginHorizontal="80dp"
+        android:layout_marginTop="60dp"
+        android:id="@+id/btnToFragment1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="FRAGMENT 02"
+        android:textColorHint="@color/white"
+        android:backgroundTint="@color/black"
+        android:layout_gravity="center"
+        android:textSize="18sp"
+        android:layout_marginHorizontal="80dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/btnToFragment2"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="FRAGMENT 03"
+        android:textColorHint="@color/white"
+        android:backgroundTint="@color/black"
+        android:layout_gravity="center"
+        android:textSize="18sp"
+        android:layout_marginHorizontal="80dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/btnToFragment3"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Activity"
+        android:textColorHint="@color/white"
+        android:backgroundTint="@color/black"
+        android:layout_gravity="center"
+        android:textSize="18sp"
+        android:layout_marginHorizontal="80dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/btnToActivity2"/>
+
+</LinearLayout>

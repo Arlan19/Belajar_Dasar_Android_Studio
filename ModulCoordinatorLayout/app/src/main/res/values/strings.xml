@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Modul Coordinator Layout</string>
+    <string name="content_title">No Man Sky</string>
+    <string name="content">
+        No Mans Sky is an action adventure survival game developed and published by the indie studio Hello Games. It was released worldwide for the PlayStation 4 and Microsoft Windows in August 2016, and for Xbox One in July 2018. The game is built around four pillars: exploration, survival, combat, and trading. Players are free to perform within the entirety of a procedurally generated deterministic open world universe, which includes over 18 quintillion planets. Through the game procedural generation system, planets have their own ecosystem with unique forms of flora and fauna, and various sentient alien species may engage the player in combat or trade within planetary systems. Players advance in the game by mining for resources to power and improve their equipment, buying and selling resources using credits earned by documenting flora and fauna, and otherwise seeking out the mystery around the Atlas, an entity at the center of the galaxy
+    </string>
+</resources>
